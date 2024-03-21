@@ -1,6 +1,6 @@
 ***Customer Analysis***
 **Overview**
-This project investigates customer data for a multi-product company. Its primary goals are:
+This project investigates customer data for a store. Its primary goals are:
 
 *Customer Segmentation*: Cluster customers into distinct groups based on demographical patterns.
 *Campaign Responsiveness*: Build a predictive model to identify customers likely to respond positively to marketing campaigns.
