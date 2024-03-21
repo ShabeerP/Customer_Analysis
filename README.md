@@ -2,9 +2,15 @@
 **Overview**
 This project investigates customer data for a store. Its primary goals are:
 
-*Customer Segmentation*: Cluster customers into distinct groups based on demographical patterns.
-*Campaign Responsiveness*: Build a predictive model to identify customers likely to respond positively to marketing campaigns.
+*Customer Segmentation*: 
+
+Cluster customers into distinct groups based on demographical patterns.
+*Campaign Responsiveness*: 
+
+Build a predictive model to identify customers likely to respond positively to marketing campaigns.
+
 **Dataset**
+
 Data Dictionary:
 People
 ● ID: Customer's unique identifier
