@@ -3,7 +3,7 @@
 
 This project investigates customer data of a well-known supermarket. 
 
-GOALS FOR THE STUDY:
+**GOALS FOR THE STUDY:**
 
 *1. Customer Segmentation*: 
 
@@ -109,7 +109,9 @@ Plots to illustrate customer segments
 Confusion matrix and ROC curve for classification evaluation
 
 *How to Contribute*
-[I will be more happy if you contribute more to this project or report any bugs, code improvements, etc.]
+
+Your contribution is vital to the success of this project. Please don't hesitate to report any bugs or suggest code improvements. I look forward to working with you to make this project the best it can be.
 
 **License**
+
 Please take a look at the license section.
