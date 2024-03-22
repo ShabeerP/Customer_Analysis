@@ -1,13 +1,14 @@
 ***Customer Analysis***
 **Overview**
 
-This project investigates customer data of well known supermarket. 
+This project investigates customer data of a well-known supermarket. 
 
 GOALS FOR THE STUDY:
 
 *1. Customer Segmentation*: 
 
 Cluster customers into distinct groups based on demographical patterns.
+
 *2. Campaign Responsiveness*: 
 
 Build a predictive model to identify customers likely to respond positively to marketing campaigns.
@@ -60,8 +61,11 @@ Data Processing: Clean, transform, and prepare the data for modeling.
 **Model Development**:
 
 *Classification*: Employ algorithms (e.g., Logistic Regression, Decision Trees, Random Forest) to predict campaign responsiveness.
+
 *Clustering*: Using the K-MeansClustering technique to segment customers.
+
 *Evaluation*: Assess model performance using relevant metrics (accuracy, precision, recall, F1-score, Silhouette score).
+
 *Visualization*: Create compelling charts to communicate findings.
 
 **Key Insights and Findings**
